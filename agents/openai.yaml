@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识文档屏拍封面"
+  short_description: "基于真实知识文档的页面内容与目录制作小红书屏拍感图文封面"
+  default_prompt: "使用 $xhs-document-screencover，基于真实文档制作知识类屏拍风小红书封面。"
